@@ -1,5 +1,5 @@
 # TruchetArt
-Generative art in p5.js using Truchet tiles
+Interactive generative art in p5.js using Truchet tiles
 
 ![alt text](https://github.com/ESikich/TruchetArt/blob/master/download.png?raw=true)
 
