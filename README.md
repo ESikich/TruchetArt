@@ -1,15 +1,11 @@
 # TruchetArt
-TruchetArt is a creative and interactive grid-based tiling pattern generator. With a variety of motifs and color combinations, you can create unique and visually appealing patterns for use in various design projects or simply as a way to express your creativity.
+TruchetArt is a creative and interactive grid-based tiling pattern generator. With a variety of motifs and color combinations, you can create unique and visually appealing patterns for use in various design projects or simply as a way to express your creativity. Or so says GPT.
 
-## Features
-- Generate a wide variety of tiling patterns with different motifs and color schemes.
-- Customize the appearance of individual tiles by scrolling your mouse wheel.
-- Subdivide tiles to create more intricate patterns and further customize your design.
-- Export your creation as an image for use in other projects or to share with others.
+[Linky](https://editor.p5js.org/erik.sikich@gmail.com/full/CcVf1drla)
+
 ## Usage
-1. Click on a tile to subdivide it into four smaller tiles.
-2. Hover over a tile and scroll the mouse wheel to change the tile's motif.
-3. To export your creation as an image, press the 'Save' button.
+- Click on a tile to subdivide it into four smaller tiles.
+- Hover over a tile and scroll the mouse wheel to change the tile's motif.
 
 ## License
 TruchetArt is released under the MIT License. See LICENSE for more information.
